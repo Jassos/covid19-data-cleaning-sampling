@@ -1,6 +1,10 @@
 # COVID-19 Historical Data Analysis
 
+My **first project** using data and Technologies like pandas, matplotlib or similar.
+
 This project focuses on the cleaning, transformation, and sampling of historical COVID-19 datasets for exploratory data analysis and statistical insights.
+
+<a href="https://colab.research.google.com/drive/1Wkrpdu3sq0IDc6gFkyCKvMNfCRxxPOMO?usp=sharing">Google Colab</a>
 
 ## Data
 
@@ -8,25 +12,22 @@ This project focuses on the cleaning, transformation, and sampling of historical
 
 ## Objectives
 
+- Understand context of the data and try to use it
 - Clean and preprocess raw COVID-19 datasets.
 - Handle missing or inconsistent data entries.
-- Generate representative samples using statistical methods.
-- Explore and visualize key patterns in infection rates, recoveries, and deaths.
+- Change values in the data-sets using dictionaries to get more cleanest information
 
-##  Tools & Technologies
+## Technologies
 
-- Python 3.x
+- Jupyter Notebook
 - Pandas
 - NumPy
 - Matplotlib / Seaborn
-- Jupyter Notebook
 
 ##  Key Features
 
 - Outlier detection and correction.
 - Missing value imputation.
 - Stratified and random sampling for analysis.
-- Visualizations of trends over time (cases, recoveries, deaths).
-- Exportable cleaned datasets.
 
 
